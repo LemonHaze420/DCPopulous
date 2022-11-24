@@ -1,0 +1,13 @@
+#define SCORE_QUAKE         25
+#define SCORE_SWAMP         50
+#define SCORE_VOLCANO       100
+#define SCORE_KNIGHT        150
+#define SCORE_FLOOD         250
+#define SCORE_WAR           5000
+#define SCORE_BATTLE        5000
+#define SCORE_YOUR_OPTIONS  1000
+#define SCORE_HIS_OPTIONS   1000
+#define SCORE_GAMETURN      15000
+#define SCORE_SPEED         15
+#define SCORE_PEOPLE        10
+#define SCORE_WON           10
